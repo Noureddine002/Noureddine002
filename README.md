@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noureddine Tanjaoui</h1>
 <h3 align="center">A passionate Junior Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noureddine002&label=Profile%20views&color=0e75b6&style=flat" alt="noureddine002" /> </p>
-
 - 🌱 I specialize in Front-end Development using : **ReactJs / NextJs / TailwindCss**
 
 - 📫 How to reach me **noureddine.nt3@gmail.com**

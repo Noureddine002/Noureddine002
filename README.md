@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **noureddine.nt3@gmail.com**
 
-- ⚡ My Portfolio <a href="https://www.ntanjaoui.me/" target="blank"> https://www.ntanjaoui.me/ </a>
+- ⚡ My Portfolio <a href="https://www.ntanjaoui.me/" target="_blank"> https://www.ntanjaoui.me/ </a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

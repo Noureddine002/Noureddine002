@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noureddine Tanjaoui</h1>
-<h3 align="center">A passionate Junior Frontend Developer</h3>
+<h3 align="center">A passionate Junior Software Developer</h3>
 
 - 🌱 I specialize in Front-end Development using : **ReactJs / NextJs / TailwindCss**
 

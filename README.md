@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noureddine Tanjaoui</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I specialize in Front-end Development using : **ReactJs / NextJs / TailwindCss**
+- 🌱 I specialize in Front-end Development using : **ReactJs / NextJs / TailwindCss / TanStack Query / Zustand**
 
 - 📫 How to reach me **noureddine.nt3@gmail.com**
 
